@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @BenOKM
-- 👀 I’m interested in eating sushi 🍣
-- 🌱 I’m currently learning frontend webdevelopment
-- 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me ...
-- Email: BenjaminOKM1710@gmail.com
+ ## too tired to talk.
+contact only if
+- you have coffee
+- you have pizza
+- you are willing to donate to the poor (by poor i mean me)
+
+email: benjaminokm1710@gmail.com
